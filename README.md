@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">HELLO WORLD 👋 What's Up?</h1>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">- 🎓 Computer Science Student<br>- 💻 Passionate about building<br>- 🏔️ Mountain lover & Alpinist at heart<br>- 📍 Based in the valleys, dreaming of the peaks</p>
 
 ###
 
